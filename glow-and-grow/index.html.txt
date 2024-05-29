@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glow & Grow</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Glow & Grow Logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="self-help-tips.html">Self-Help Tips</a></li>
+                <li><a href="self-improvement-plans.html">Self-Improvement Plans</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Welcome to Glow & Grow</h1>
+        <p>Discover the best self-help tips and self-improvement plans, curated for you.</p>
+        <section class="affiliate">
+            <h2>Recommended Products</h2>
+            <p>Check out our <a href="https://www.amazon.com" target="_blank">top picks</a> for self-improvement tools and resources.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Glow & Grow. All rights reserved.</p>
+    </footer>
+</body>
+</html>
